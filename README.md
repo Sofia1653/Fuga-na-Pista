@@ -2,5 +2,5 @@
 
 # Abrir o jogo
 - wsl.exe
-- gcc ./src/*.c -I./include -o <nome>
-- /<nome>
+- gcc ./src/*.c -I./include -o exemplo
+- /exemplo
