@@ -19,3 +19,9 @@
 
 
                             Desvie dos obstáculos e faça o seu maior tempo sem colidir e entre no mural do records!!!
+                            
+                                              Instruções:  W= subir  S= Descer
+
+                                      Voce deve desviar dos obstáculos subindo e descendo das linhas. 
+
+                                                      
